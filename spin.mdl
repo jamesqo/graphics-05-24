@@ -1,0 +1,65 @@
+frames 100
+basename spin
+push
+move 250 100 0
+rotate y -70 spin
+rotate z 60 spin
+torus 0 0 0 6 11
+push
+move 0 10 0
+torus 0 0 0 6 11
+push
+move 0 10 0
+torus 0 0 0 6 11
+push
+move 0 10 0
+torus 0 0 0 6 12
+push
+move 0 10 0
+torus 0 0 0 6 13
+push
+move 0 10 0
+torus 0 0 0 6 14
+push
+move 0 10 0
+torus 0 0 0 6 15
+push
+move 0 10 0
+torus 0 0 0 6 16
+push
+move 0 10 0
+torus 0 0 0 6 17
+push
+move 0 10 0
+torus 0 0 0 6 18
+push
+move 0 10 0
+torus 0 0 0 6 19
+push
+move 0 10 0
+torus 0 0 0 6 20
+push
+move 0 10 0
+torus 0 0 0 6 21
+push
+move 0 10 0
+torus 0 0 0 6 22
+push
+move 0 10 0
+torus 0 0 0 6 23
+push
+move 0 10 0
+torus 0 0 0 6 24
+push
+move 0 10 0
+torus 0 0 0 6 25
+push
+move 0 10 0
+torus 0 0 0 6 33
+push
+move 0 40 0
+sphere 0 0 0 50
+push
+torus 0 0 0 3 51
+vary spin 0 99 0 1
+
